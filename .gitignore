@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 排除所有项目的子目录下的build文件夹
+version_1/build/
+
